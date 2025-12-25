@@ -1,8 +1,11 @@
+#This project is developed strictly for educational and learning purposes to understand the concepts of market risk measurement and Value at Risk (VaR).
+#The models, assumptions, parameters, and results presented here are simplified academic implementations and should not be used for real-world trading, investment decisions, or financial risk management.
+#This work does not constitute financial advice, and it does not reflect production-grade risk models used by financial institutions.
+
 
 IS_STREAMLIT = True
 
 # 1. IMPORTS
-
 
 import numpy as np
 import pandas as pd
@@ -418,4 +421,5 @@ ax.legend()
 st.pyplot(fig)
 
 # To run the model, In your terminal bash -----> streamlit run app.py   
+
 
