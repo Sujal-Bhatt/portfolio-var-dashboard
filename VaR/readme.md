@@ -1,4 +1,10 @@
 
+Disclaimer:
+This project is developed strictly for educational and learning purposes to understand the concepts of market risk measurement and Value at Risk (VaR).
+The models, assumptions, parameters, and results presented here are simplified academic implementations and should not be used for real-world trading, investment decisions, or financial risk management.
+This work does not constitute financial advice, and it does not reflect production-grade risk models used by financial institutions.
+
+
 **📊 Portfolio Value at Risk (VaR) Dashboard**
 
 An interactive **risk analytics dashboard** built using **Streamlit** that computes
@@ -584,4 +590,5 @@ st.metric(
 # Displaying the Stress VaR metric in the Streamlit app
 # Including the shock percentage in the metric label
 # Formatting the stressed VaR value as a percentage with two decimals
+
 
